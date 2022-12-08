@@ -1,0 +1,2 @@
+# CardDispenserTestProject
+这是发卡机测试软件的源码，使用java编写，开发时使用虚拟串口调试，使用jSerialComm与串口通讯，UI界面使用javaFX
